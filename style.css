@@ -1,8 +1,7 @@
 body{
-    background-color:#666;
+    background-color:#EFEFEF;
 }
-header{
-    color:#eeeeee;
+header,footer{
     text-align:center;
 }
 #container{
